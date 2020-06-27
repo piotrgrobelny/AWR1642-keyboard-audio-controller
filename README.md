@@ -1,16 +1,16 @@
-#AWR1642 audio and keyboard controller
+# AWR1642 audio and keyboard controller
 Python application which makes audio and keyboard controller by using AWR1642 from TI and HB100 - simple arduino doppler radar.
 
-###Requirements:
-####Hardware
+### Requirements:
+#### Hardware
 - AWR1642 boost
 - Arduino Uno
 - HB100 doppler radar
-####Software
+#### Software
 - Python 3 https://www.python.org/downloads/
 - Arduino IDE https://www.arduino.cc/en/main/software
 - pip https://pypi.org/project/pip/
-##Installation process 
+## Installation process 
 1.Connect HB100 to arduino
 - VCC to 5V
 - GND to GND
