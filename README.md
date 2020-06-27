@@ -36,7 +36,7 @@ Python application which makes audio and keyboard controller by using AWR1642 fr
  
  7.Choose which controller you want to use and run python script:
  1. Audio controller:  
-        -`radar_piano.py` - simulation of piano with note sounds from http://www.mediafire.com/file/zp8brp1f6q777b1/Midi_Notes.rar/file
+        -`radar_piano.py` - simulation of piano with note sounds from http://www.mediafire.com/file/zp8brp1f6q777b1/Midi_Notes.rar/file  
         -`radar_organ.py` - real time audio processing script which generates an organ sounds  
         
  2. Keyboard controller:  
