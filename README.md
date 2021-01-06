@@ -1,7 +1,8 @@
 # AWR1642 audio and keyboard controller
 Python application which makes audio and keyboard controller by using AWR1642 from TI and HB100 - simple arduino doppler radar. The project reach to the finals of the international competition IEEE Studend Design Contest 2020.
 
-[![](http://img.youtube.com/vi/xTY76ECc9gQ/0.jpg)](http://www.youtube.com/watch?v=xTY76ECc9gQ " AWR1642 Wireless Music Conductor by PWR Radar Team")
+##Youtube link
+[![](http://img.youtube.com/vi/xTY76ECc9gQ/0.jpg)](http://www.youtube.com/watch?v=xTY76ECc9gQ " AWR1642 Wireless Music Conductor by PWR Radar Team"){align=center}
 
 ### Requirements:
 #### Hardware
